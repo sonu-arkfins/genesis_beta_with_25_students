@@ -13,3 +13,4 @@ step3: install the requirements from requirements.txt file
 step4: run the python files in order.
 -->python data.py    #to populate the data in the mongodb
 -->python main.py    #to run the main porgram.
+-->streamlit run strmain.py  #to run using streamlit
